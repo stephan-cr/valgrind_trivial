@@ -1,0 +1,6 @@
+SUBDIRS = .
+
+check_PROGRAMS = remap
+
+AM_CFLAGS = $(WERROR) -Wall -W -O2
+AM_CXXFLAGS = $(AMFLAGS)

@@ -1,0 +1,9 @@
+Valgrind Trival
+---------------
+
+This project collects a set of trivial Valgrind [1] tools for
+demonstration and documentation purpose.
+
+Please fork me!
+
+[1] http://valgrind.org/
